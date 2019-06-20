@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/Problem6a.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>138752</length>                 
+      <used>25620</used>                     
+      <free>113132</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>1820</used>                     
+      <free>14564</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

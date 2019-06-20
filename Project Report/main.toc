@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}Preliminary Design}{3}
+\contentsline {subsection}{\numberline {1.1}Mechanical Design Drafts}{3}
+\contentsline {subsection}{\numberline {1.2}UNO 32 Pin Layout}{3}
+\contentsline {subsection}{\numberline {1.3}Team Roles}{4}
+\contentsline {section}{\numberline {2}Mechanical Design}{5}
+\contentsline {subsection}{\numberline {2.1}Motorized Platform}{5}
+\contentsline {subsubsection}{\numberline {2.1.1}Motor Mounts}{6}
+\contentsline {subsubsection}{\numberline {2.1.2}Skids}{6}
+\contentsline {subsubsection}{\numberline {2.1.3}Bumpers}{7}
+\contentsline {subsection}{\numberline {2.2}Top Layer}{9}
+\contentsline {subsubsection}{\numberline {2.2.1}Mounting}{10}
+\contentsline {subsubsection}{\numberline {2.2.2}Beacon Mount}{11}
+\contentsline {subsubsection}{\numberline {2.2.3}Wire Routing}{12}
+\contentsline {subsubsection}{\numberline {2.2.4}Firing Assembly Mounts}{12}
+\contentsline {subsection}{\numberline {2.3}Firing Assembly}{14}
+\contentsline {subsubsection}{\numberline {2.3.1}Firing Platform}{15}
+\contentsline {subsubsection}{\numberline {2.3.2}Firing Mechanism}{17}
+\contentsline {subsubsection}{\numberline {2.3.3}Ammo Hopper}{18}
+\contentsline {subsubsection}{\numberline {2.3.4}Loading and Shooting}{20}
+\contentsline {subsection}{\numberline {2.4}Final CAD Design}{24}
+\contentsline {subsection}{\numberline {2.5}Revisions$\delimiter "026E30F {}$Modifications}{27}
+\contentsline {subsubsection}{\numberline {2.5.1}OBSTRUCTION!!!!}{27}
+\contentsline {subsubsection}{\numberline {2.5.2}Beacon Hat}{28}
+\contentsline {subsubsection}{\numberline {2.5.3}Beacon Tracking}{29}
+\contentsline {section}{\numberline {3}Software Design}{30}
+\contentsline {subsection}{\numberline {3.1}Synchronous Sampling}{30}
+\contentsline {subsection}{\numberline {3.2}DC motors}{32}
+\contentsline {subsection}{\numberline {3.3}Servo}{32}
+\contentsline {subsection}{\numberline {3.4}Beacon Detector}{33}
+\contentsline {subsection}{\numberline {3.5}Debouncing Service}{33}
+\contentsline {subsection}{\numberline {3.6}HSM}{33}
+\contentsline {subsubsection}{\numberline {3.6.1}IFZ Not Reached}{34}
+\contentsline {subsubsection}{\numberline {3.6.2}IFZ Reached}{38}
+\contentsline {section}{\numberline {4}Electrical Design}{39}
+\contentsline {subsection}{\numberline {4.1}Beacon Detector Design}{39}
+\contentsline {subsection}{\numberline {4.2}Tape Sensor Circuit Design}{41}
+\contentsline {subsection}{\numberline {4.3}5 Volts and 3.3 Volts Power Board}{43}
+\contentsline {section}{\numberline {5}Conclusion}{43}
+\contentsline {section}{\numberline {6}Appendix}{43}
